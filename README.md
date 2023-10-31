@@ -1,6 +1,9 @@
 ## Save Me Granny - ETHLDN Hackathon 29/10/2023
+![Save Me Granny!](https://github.com/pripatelUK/savemegranny/assets/7451050/8d657f97-31ef-4667-95d8-6325ba3db8be)
 
-<div style="position: relative; padding-bottom: 64.94708994708994%; height: 0;"><iframe src="https://www.loom.com/embed/f57b8b9eee544d25bfd1af4856acc765?sid=be7de6b4-70e3-4a77-bd30-56297ff5d3ff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+[Watch the Loom video here!](https://www.loom.com/share/f57b8b9eee544d25bfd1af4856acc765?sid=c786daf7-846c-4c8b-b02a-68a1b5bc215c)
+
 
 ## Summary
 
